@@ -3,7 +3,7 @@
 This is a solution to the [Manage Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<img src="[images\manage-challenge.png](https://github.com/thelouisgram/manage-landing-page/blob/main/images/manage-challenge.png)" alt="challenge">
+<img src="https://github.com/thelouisgram/manage-landing-page/blob/main/images/manage-challenge.png" alt="challenge">
 
 
 ## Table of contents
