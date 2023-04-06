@@ -37,7 +37,7 @@ Users should be able to:
                  
 <img src="images\manage-desktop.png">
 
-                 This is for mobile view taken on a Pixel 2.
+                 This is for mobile view taken on a mobile device.
                  
   <p align="center">
    <img src="images\manage-mobile.png" height="500px">
