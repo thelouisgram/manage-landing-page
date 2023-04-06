@@ -35,12 +35,12 @@ Users should be able to:
 
                 This is a desktop View.
                  
-<img src="images\manage-desktop.png" alt="desktop view">
+<img src="https://github.com/thelouisgram/manage-landing-page/blob/main/images/manage-desktop.png" alt="desktop view">
 
                  This is for mobile view.
                  
   <p align="center">
-   <img src="images\manage-mobile.png" alt="mobile view" height="500px">
+   <img src="https://github.com/thelouisgram/manage-landing-page/blob/main/images/manage-mobile.png" alt="mobile view" height="500px">
   </p>
   
 ### Links
