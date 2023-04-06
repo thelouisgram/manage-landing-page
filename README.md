@@ -3,7 +3,7 @@
 This is a solution to the [Manage Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<img src="images\manage-challenge.png">
+<img src="images\manage-challenge.png" alt="challenge">
 
 
 ## Table of contents
@@ -35,12 +35,12 @@ Users should be able to:
 
                 This is a desktop View.
                  
-<img src="images\manage-desktop.png">
+<img src="images\manage-desktop.png" alt="desktop view">
 
-                 This is for mobile view taken on a mobile device.
+                 This is for mobile view.
                  
   <p align="center">
-   <img src="images\manage-mobile.png" height="500px">
+   <img src="images\manage-mobile.png" alt="mobile view" height="500px">
   </p>
   
 ### Links
